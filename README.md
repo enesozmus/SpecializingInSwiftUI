@@ -11,4 +11,6 @@ Kaynak: https://developer.apple.com/
 ![study-1](https://github.com/enesozmus/SpecializingInSwiftUI/assets/94680591/63527ceb-c0e4-44b1-b297-b2d50e422939)
 
 > - ⚙️ [Declaring a custom view and Adding the to the view hierarchy](./Study-2)
->  > declarative approach and imperative approach, a custom view, View protocol, a computed body property, Associated Types, view modifiers, subviews, the initializer methods 
+>  > declarative approach and imperative approach, a custom view, View protocol, a computed body property, Associated Types, view modifiers, subviews, the initializer methods
+
+![study-2](https://github.com/enesozmus/SpecializingInSwiftUI/assets/94680591/3b7756d4-2b91-481f-b495-d818a6f99cdd)
